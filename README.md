@@ -17,13 +17,11 @@
   </a>
 </div>
 
-
-
-Information Specialist with a passion for aligning security architecture plans and processes with security standards and business goals. I have extensive experience developing and testing security frameworks for cloud-based software, along with expertise in robust network defense strategies. Seeking a full-time position that offers professional challenges, utilizing my interpersonal skills, excellent time management, and problem-solving abilities. I am a detail-oriented team player with strong organizational skills, capable of handling multiple projects simultaneously with a high degree of accuracy.
+Tech | Product | Strategy
 
 ## Skills
 
-- **Network Security Measures:** Kali Linux, Wireshark, Nessus, Metasploit, Nmap, Burpsuite, Active Directory, AWS, Azure
+- **SAAS:** API, B2B, B2C
 - **Programming Languages:** C++, C, Java, Python, Perl, Bash, PHP, Powershell, Scripting, Computer Science, Cybersecurity
 - **Cybersecurity Expertise:** Policy Development, Computer Forensics, Cryptography, Adaptability, Curiosity, Critical Thinking, DevOps
 - **Additional Competencies:** Network Performance Monitoring, Splunk SIEM, NIST Security Standards, Multi-Factor Authentication, Security Systems Knowledge, Deductive Reasoning Skills, Data Classification, Communication, Reliable and Responsible
@@ -37,4 +35,4 @@ Information Specialist with a passion for aligning security architecture plans a
 - Additional Competencies: Network Performance Monitoring, Splunk SIEM, NIST Security Standards, Multi-Factor Authentication, Security Systems Knowledge, Deductive Reasoning Skills, Data Classification, Communication, Reliable and Responsible
 - Specialized Knowledge: Penetration Testing, Access Control, System Architecture, Cybersecurity Analytics, CompTIA, Data Security, Threat Intelligence, Network Design, Risk Management, Information Security, Cloud Networking, Cloud Data, Cloud Infrastructure, AWS Cloud
 
-Feel free to connect and explore more about my cybersecurity journey! 🔐
+Feel free to connect and explore more about my product management journey! 🔐
