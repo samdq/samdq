@@ -16,28 +16,28 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-Feel free to connect and explore more about my product management journey! 🔐
 
-##👨‍💻 Technical Product Head
+## Technical Product Head
 
 🚀 Creating innovative Python solutions for technical challenges.<br/>
 📦 Maintaining a collection of open-source libraries and projects.<br/>
 
 
-##🔧 Key Focus Areas:
+## Key Focus Areas:
 
 💡 Innovative solutions for technical problems.<br/>
-🌐 Web development and API integrations.<br/>
+🌐 Python based API & services development.<br/>
 📊 Data analysis and visualization tools.<br/>
 🧰 Efficient Python libraries and frameworks.<br/>
 📚 Open-source contributions and collaboration.<br/>
 
-##🌟 Achievements:
+## Achievements:
 
 🏆 Recognized for contributions to the Python community.<br/>
 🌍 Impactful projects used by developers worldwide.<br/>
 📢 Active engagement in technical discussions and forums.<br/>
-📧 Contact:
+
+Feel free to connect and explore more about my product management journey! 🔐
 
 📬 Email: linusxcj@gmail.com<br/>
 🌐 LinkedIn: linkedin.com/linusxcj<br/>
