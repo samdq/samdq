@@ -39,4 +39,6 @@ Feel free to connect and explore more about my product management journey! 🔐
 
 📬 Email: linusxcj@gmail.com<br/>
 🌐 LinkedIn: linkedin.com/linusxcj<br/>
-
+ 
+![Linus Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linusxcj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linusxcj&show_icons=true&theme=radical)
